@@ -1,4 +1,3 @@
-// cria um script que calcula erro relativo e erro absoluto
 
 import java.util.Scanner;
 
